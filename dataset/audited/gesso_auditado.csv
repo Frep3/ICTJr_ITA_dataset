@@ -1,0 +1,7 @@
+trial,massa,quadros,quadros_ok,tempo_ok,velocidade_maxima,velocidade_ok,y_monotono_ok,duplicata,tipo_duplicata,duplicata_de,aprovado,motivos_rejeicao
+gesso1,53,65,True,True,0.3529411764705824,True,False,False,,,False,y_nao_monotonicamente_decrescente
+gesso2,53,61,True,True,10.5,True,True,False,,,True,
+gesso3,53,61,True,True,10.812499999999993,True,True,False,,,True,
+gesso4,53,99,True,True,5.124999999999986,True,True,False,,,True,
+gesso5,53,100,True,True,5.2500000000000275,True,True,False,,,True,
+gesso6,53,102,True,True,5.647058823529249,True,True,False,,,True,
