@@ -1,0 +1,6 @@
+trial,massa,quadros,quadros_ok,tempo_ok,velocidade_maxima,velocidade_ok,y_monotono_ok,duplicata,tipo_duplicata,duplicata_de,aprovado,motivos_rejeicao
+vazia1,3,55,False,True,14.937499999999993,True,False,False,,,False,menos_de_60_quadros; y_nao_monotonicamente_decrescente
+vazia2,3,67,True,True,40.524590163934384,False,False,False,,,False,velocidade_acima_de_25_m_s; y_nao_monotonicamente_decrescente
+vazia3,3,315,True,True,1.6249999999999862,True,True,False,,,True,
+vazia4,3,276,True,True,1.8124999999999931,True,True,False,,,True,
+vazia5,3,293,True,True,1.8235294117647458,True,True,False,,,True,

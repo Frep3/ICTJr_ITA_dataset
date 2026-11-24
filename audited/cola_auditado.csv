@@ -1,0 +1,7 @@
+trial,massa,quadros,quadros_ok,tempo_ok,velocidade_maxima,velocidade_ok,y_monotono_ok,duplicata,tipo_duplicata,duplicata_de,aprovado,motivos_rejeicao
+cola1,32,61,True,True,11.312499999999993,True,True,False,,,True,
+cola2,32,60,True,True,10.812499999999993,True,True,False,,,True,
+cola3,32,57,False,True,12.312499999999908,True,True,False,,,False,menos_de_60_quadros
+cola4,32,115,True,True,5.562499999999944,True,True,False,,,True,
+cola5,32,120,True,True,4.374999999999958,True,True,False,,,True,
+cola6,32,110,True,True,5.52941176470588,True,True,False,,,True,
